@@ -1,4 +1,5 @@
-# Capstone2
+# Galvanize Data Science Immersive Capstone 2
+
 Often when out in public with my parents we come across flowers or plants that my Mother sees and wants to know what they are so she can try to get some for her garden. Because of this I decided to do a flower based image classification convolutional neural network for my Capstone 2 project.
 
 ![](img/capstone2_presentation2.0.png)
@@ -14,6 +15,9 @@ https://www.kaggle.com/alxmamaev/flowers-recognition
 I let the model run overnight without any stopping conditions but saving only the best weights.
 
 ![](img/capstone2_presentation2.4.png)
+
+As you can see the results were promising. The overall accuracy was over 80% correct classification on the validation set. 
+
 ![](img/capstone2_presentation2.5.png)
 ![](img/capstone2_presentation2.6.png)
 ![](img/capstone2_presentation2.7.png)
